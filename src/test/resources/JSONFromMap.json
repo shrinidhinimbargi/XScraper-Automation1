@@ -1,0 +1,203 @@
+{
+  "teamDataList" : [ {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Minnesota North Stars",
+    "Year" : "1990",
+    "Win %" : "0.338",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "New York Islanders",
+    "Year" : "1990",
+    "Win %" : "0.312",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1990",
+    "Win %" : "0.2",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1990",
+    "Win %" : "0.287",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Vancouver Canucks",
+    "Year" : "1990",
+    "Win %" : "0.35",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1990",
+    "Win %" : "0.325",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Calgary Flames",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926282
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Minnesota North Stars",
+    "Year" : "1990",
+    "Win %" : "0.338",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "New York Islanders",
+    "Year" : "1990",
+    "Win %" : "0.312",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1990",
+    "Win %" : "0.2",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1990",
+    "Win %" : "0.287",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Vancouver Canucks",
+    "Year" : "1990",
+    "Win %" : "0.35",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1990",
+    "Win %" : "0.325",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Calgary Flames",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926289
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Minnesota North Stars",
+    "Year" : "1990",
+    "Win %" : "0.338",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "New York Islanders",
+    "Year" : "1990",
+    "Win %" : "0.312",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1990",
+    "Win %" : "0.2",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1990",
+    "Win %" : "0.287",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Vancouver Canucks",
+    "Year" : "1990",
+    "Win %" : "0.35",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1990",
+    "Win %" : "0.325",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Calgary Flames",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926296
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Hartford Whalers",
+    "Year" : "1990",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Minnesota North Stars",
+    "Year" : "1990",
+    "Win %" : "0.338",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "New York Islanders",
+    "Year" : "1990",
+    "Win %" : "0.312",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Quebec Nordiques",
+    "Year" : "1990",
+    "Win %" : "0.2",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Toronto Maple Leafs",
+    "Year" : "1990",
+    "Win %" : "0.287",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Vancouver Canucks",
+    "Year" : "1990",
+    "Win %" : "0.35",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Winnipeg Jets",
+    "Year" : "1990",
+    "Win %" : "0.325",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Buffalo Sabres",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926305
+  }, {
+    "Team Name" : "Calgary Flames",
+    "Year" : "1991",
+    "Win %" : "0.388",
+    "Epoch Time" : 1724926305
+  } ]
+}

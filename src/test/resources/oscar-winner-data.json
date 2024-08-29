@@ -1,0 +1,183 @@
+{
+  "OscarList" : [ {
+    "Nominations" : "6",
+    "Awards" : "2",
+    "Best Picture" : "True",
+    "Title" : "Spotlight",
+    "epoch Time" : 1724926357
+  }, {
+    "Nominations" : "10",
+    "Awards" : "6",
+    "Best Picture" : "False",
+    "Title" : "Mad Max: Fury Road",
+    "epoch Time" : 1724926357
+  }, {
+    "Nominations" : "12",
+    "Awards" : "3",
+    "Best Picture" : "False",
+    "Title" : "The Revenant",
+    "epoch Time" : 1724926357
+  }, {
+    "Nominations" : "6",
+    "Awards" : "1",
+    "Best Picture" : "False",
+    "Title" : "Bridge of Spies",
+    "epoch Time" : 1724926357
+  }, {
+    "Nominations" : "5",
+    "Awards" : "1",
+    "Best Picture" : "False",
+    "Title" : "The Big Short",
+    "epoch Time" : 1724926357
+  }, {
+    "Nominations" : "9",
+    "Awards" : "4",
+    "Best Picture" : "True",
+    "Title" : "Birdman",
+    "epoch Time" : 1724926367
+  }, {
+    "Nominations" : "9",
+    "Awards" : "4",
+    "Best Picture" : "False",
+    "Title" : "The Grand Budapest Hotel",
+    "epoch Time" : 1724926368
+  }, {
+    "Nominations" : "5",
+    "Awards" : "3",
+    "Best Picture" : "False",
+    "Title" : "Whiplash",
+    "epoch Time" : 1724926368
+  }, {
+    "Nominations" : "8",
+    "Awards" : "1",
+    "Best Picture" : "False",
+    "Title" : "The Imitation Game",
+    "epoch Time" : 1724926368
+  }, {
+    "Nominations" : "6",
+    "Awards" : "1",
+    "Best Picture" : "False",
+    "Title" : "American Sniper",
+    "epoch Time" : 1724926368
+  }, {
+    "Nominations" : "9",
+    "Awards" : "3",
+    "Best Picture" : "True",
+    "Title" : "12 Years a Slave",
+    "epoch Time" : 1724926378
+  }, {
+    "Nominations" : "10",
+    "Awards" : "7",
+    "Best Picture" : "False",
+    "Title" : "Gravity",
+    "epoch Time" : 1724926378
+  }, {
+    "Nominations" : "6",
+    "Awards" : "3",
+    "Best Picture" : "False",
+    "Title" : "Dallas Buyers Club",
+    "epoch Time" : 1724926378
+  }, {
+    "Nominations" : "2",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "Frozen",
+    "epoch Time" : 1724926378
+  }, {
+    "Nominations" : "2",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "The Great Gatsby",
+    "epoch Time" : 1724926378
+  }, {
+    "Nominations" : "",
+    "Awards" : "",
+    "Best Picture" : "True",
+    "Title" : "",
+    "epoch Time" : 1724926388
+  }, {
+    "Nominations" : "",
+    "Awards" : "",
+    "Best Picture" : "False",
+    "Title" : "",
+    "epoch Time" : 1724926388
+  }, {
+    "Nominations" : "",
+    "Awards" : "",
+    "Best Picture" : "False",
+    "Title" : "",
+    "epoch Time" : 1724926388
+  }, {
+    "Nominations" : "",
+    "Awards" : "",
+    "Best Picture" : "False",
+    "Title" : "",
+    "epoch Time" : 1724926389
+  }, {
+    "Nominations" : "",
+    "Awards" : "",
+    "Best Picture" : "False",
+    "Title" : "",
+    "epoch Time" : 1724926389
+  }, {
+    "Nominations" : "7",
+    "Awards" : "3",
+    "Best Picture" : "True",
+    "Title" : "Argo",
+    "epoch Time" : 1724926399
+  }, {
+    "Nominations" : "11",
+    "Awards" : "4",
+    "Best Picture" : "False",
+    "Title" : "Life of Pi",
+    "epoch Time" : 1724926399
+  }, {
+    "Nominations" : "8",
+    "Awards" : "3",
+    "Best Picture" : "False",
+    "Title" : "Les Misérables",
+    "epoch Time" : 1724926399
+  }, {
+    "Nominations" : "12",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "Lincoln",
+    "epoch Time" : 1724926399
+  }, {
+    "Nominations" : "5",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "Django Unchained",
+    "epoch Time" : 1724926399
+  }, {
+    "Nominations" : "12",
+    "Awards" : "4",
+    "Best Picture" : "True",
+    "Title" : "The King's Speech",
+    "epoch Time" : 1724926409
+  }, {
+    "Nominations" : "8",
+    "Awards" : "4",
+    "Best Picture" : "False",
+    "Title" : "Inception",
+    "epoch Time" : 1724926409
+  }, {
+    "Nominations" : "8",
+    "Awards" : "3",
+    "Best Picture" : "False",
+    "Title" : "The Social Network",
+    "epoch Time" : 1724926409
+  }, {
+    "Nominations" : "7",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "The Fighter",
+    "epoch Time" : 1724926409
+  }, {
+    "Nominations" : "5",
+    "Awards" : "2",
+    "Best Picture" : "False",
+    "Title" : "Toy Story 3",
+    "epoch Time" : 1724926409
+  } ]
+}
